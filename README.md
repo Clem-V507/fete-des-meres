@@ -3,7 +3,7 @@
 Une petite animation web interactive créée pour la fête des mères.  
 Cœur animé, message personnalisé et musique d’ambiance, le tout codé en HTML/CSS/JS.
 
-🔗 [Voir la démo en ligne](https://tonpseudo.github.io/fete-des-meres)
+🔗 [Voir la démo en ligne](https://Clem-V507.github.io/fete-des-meres)
 
 ## ✨ Tech utilisées
 - HTML5 / CSS3
