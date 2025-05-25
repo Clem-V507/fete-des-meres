@@ -7,7 +7,7 @@ Cœur animé, message personnalisé et musique d’ambiance, le tout codé en HT
 
 ## ✨ Tech utilisées
 - HTML5 / CSS3
-- JavaScript (léger)
+- JavaScript
 - GitHub Pages pour l'hébergement
 
 ## 📦 Objectif
@@ -15,7 +15,7 @@ Projet personnel pour allier créativité, animation et partage.
 Conçu comme une carte numérique responsive à offrir.
 
 ## 📁 Aperçu
-![Aperçu de l'animation](capture.png)
+![Aperçu de l'animation](screenshot.png)
 
 ---
 
